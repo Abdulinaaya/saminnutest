@@ -1,0 +1,6 @@
+{
+	{
+		saminnu testing bond
+	}
+}
+
